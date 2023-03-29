@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "SimpleDI",
   "description": "A lightweight dependency injection framework for C#.",
-  "main": "Assets/Packages/com/srb/SimpleDI/Runtime/SimpleDI.cs",
+  "main": "Assets/Packages/com.srb.simpledi/Runtime/SimpleDI.cs",
   "unity": "2021.3",
   "author": {
     "name": "Shivaprasad R Badiger",
