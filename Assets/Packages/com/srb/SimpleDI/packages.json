@@ -1,0 +1,22 @@
+{
+  "name": "com.srb.simpledi",
+  "version": "1.0.0",
+  "displayName": "SimpleDI",
+  "description": "A lightweight dependency injection framework for C#.",
+  "main": "Assets/Packages/com/srb/SimpleDI/Runtime/SimpleDI.cs",
+  "unity": "2021.3.1f1",
+  "author": {
+    "name": "Shivaprasad R Badiger",
+    "email": "shivaprasadrbadiger@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShivaprasadRBadiger/SimpleDI.git"
+  },
+  "keywords": [
+    "dependency injection",
+    "C#",
+    "Unity"
+  ],
+  "license": "MIT",
+}
