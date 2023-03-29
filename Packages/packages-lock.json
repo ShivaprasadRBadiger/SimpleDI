@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.srb.simpledi": {
+      "version": "file:C:/Storage/Workspace/SimpleDI",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "7.0.4",
       "depth": 1,
