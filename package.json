@@ -4,7 +4,7 @@
   "displayName": "SimpleDI",
   "description": "A lightweight dependency injection framework for C#.",
   "main": "Assets/Packages/com/srb/SimpleDI/Runtime/SimpleDI.cs",
-  "unity": "2021.3.1f1",
+  "unity": "2021.3",
   "author": {
     "name": "Shivaprasad R Badiger",
     "email": "shivaprasadrbadiger@gmail.com"
