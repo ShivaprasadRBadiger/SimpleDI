@@ -8,6 +8,9 @@ namespace com.srb.DependencyInjection
 {
 	public class SimpleDI
 	{
+		private static SimpleDI _globalInstance;
+		public static SimpleDI Default => _globalInstance ??= new SimpleDI();
+	
 		private Dictionary<Type, object> _singletons = new Dictionary<Type, object>();
 		private Stack<Type> _resolutionStack = new Stack<Type>();
 
